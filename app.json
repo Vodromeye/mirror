@@ -1,15 +1,15 @@
 {
-    "name": "Deepak Clouds Mirror",
+    "name": "Momin Clouds Mirror",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://imagetot.com/images/2021/06/17/d7e86862ce2686f4c6c6596bfa72785d.jpg",
+    "logo": "https://i.pinimg.com/564x/cf/bd/2c/cfbd2c722de8d9f5a84adcf83d0395d4.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
-    "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
-    "success_url": "https://t.me/cloudsmirror",
+    "repository": "https://github.com/Vodromeye",
+    "website": "https://github.com/Vodromeye/mirror",
+    "success_url": "https://t.me/D_A_R_K_K_night",
     "stack": "container",
     "env": {
       "ENV": {
